@@ -13,7 +13,7 @@ Analysis scripts to run in the following order:
 
 The output from these scripts will be in a form to be able to run group level statistics.
 
-These scripts demostrate the analyses described in the paper. Data are available as part of a larger EEG study here: osf.io/wsp4j
+These scripts demostrate the analyses described in the paper. Data are available as part of a larger EEG study here: https://osf.io/ufet7/?view_only=a6f7f2ef61b242c1b444355fcd2c1ba5
 
 The average ECG waveform before and after artifact rejection are shown for each participant in RawECGaverage.pptx and ECGaveragePostRejection.pptx.
 

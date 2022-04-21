@@ -1,6 +1,7 @@
 # HRV_AutismSchizophrenia
 
-Additional information to supplement Sarah M Haigh, Tabatha P Walford & Patricia Brosseau (under review). Heart Rate Variability in Schizophrenia and Autism. Frontiers: Schizophrenia
+Additional information to supplement Sarah M Haigh, Tabatha P Walford & Pat Brosseau (2021). Heart Rate Variability in Schizophrenia and Autism. _Frontiers in Psychiatry: Schizophrenia. 12,_ 2129. https://doi.org/10.3389/fpsyt.2021.760396
+
 
 Requires MATLAB, EEGLAB, and the fmrib plugin for EEGLAB
 

@@ -1,4 +1,4 @@
-# HRV_AutismSchizophrenia
+# HRV in Autism & Schizophrenia
 
 Additional information to supplement Sarah M Haigh, Tabatha P Walford & Pat Brosseau (2021). Heart Rate Variability in Schizophrenia and Autism. _Frontiers in Psychiatry: Schizophrenia. 12,_ 2129. https://doi.org/10.3389/fpsyt.2021.760396
 
